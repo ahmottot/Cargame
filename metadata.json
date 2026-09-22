@@ -1,0 +1,6 @@
+{
+  "name": "DriveCSX",
+  "description": "BeamNG ve Automation tarzı araç simülasyonu; RWD, FWD, 4WD araçlar, motor ve parça modifikasyonu, yokuş, uçurum düşüşü ve süspansiyon test parkurları.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
